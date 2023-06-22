@@ -37,7 +37,7 @@
         android:id="@+id/botonhoteles"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/cadetblue"
+        android:background="@drawable/roundedbotton"
         android:text="Hoteles"
         android:layout_marginHorizontal="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
